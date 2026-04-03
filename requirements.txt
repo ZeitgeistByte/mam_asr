@@ -1,0 +1,14 @@
+# Manejo de audio y extracción de características (MFCC, Espectrogramas)
+torch
+torchaudio
+librosa
+
+# Modelos preentrenados y Fine-tuning (wav2vec 2.0)
+transformers
+datasets
+
+# Análisis de datos y visualización
+pandas
+numpy
+matplotlib
+seaborn
